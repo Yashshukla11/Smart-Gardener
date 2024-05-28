@@ -185,6 +185,11 @@ Our Smart Gardeners platform is built using the following technologies:
 
 [<img src="https://i.postimg.cc/yxdvjm9H/Screenshot-from-2024-04-21-02-38-40.png" width="50%">](https://youtu.be/kC1i2YAeyOA "Now in Android: 55")
 
+## Presentation
+
+You can view the presentation on Canva by following this [link](https://www.canva.com/design/DAGCxrMSnLo/7Qka0nACiHyr-r9IuN_7mw/edit).
+
+
 ### How to Access the Web Portal:
 
 1. Visit [SmartGardeners](https://smart-gardeners.vercel.app/)
